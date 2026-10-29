@@ -64,5 +64,141 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Credible Data is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by gradient-ventures) and added to the network as a stub for full-pipeline profiling.
-- https://www.credibledata.com/
+Credible Data provides the AI Analytics Engine, turning raw data into trustworthy answers, applications, and agents. Their platform lets users connect databases, spreadsheets, or data warehouses, model data with Malloy, and query via natural language. Backed by Gradient Ventures, the company aims to make data reliable for AI-driven decision making, offering a free starter tier and enterprise options.
+
+**Areas:** AI · Data Analytics · Machine Learning · Analytics Engine · Platform
+
+## Credible Data on APIs.io
+
+Everything profiled for Credible Data is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/credible-data/](https://apis.io/providers/credible-data/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Credible Data Admin API Reference API](https://apis.io/apis/credible-data/admin-api-reference-api/) — Credible Data Admin API Reference API as documented publicly: 32 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not…
+- [Credible Data Data API Reference API](https://apis.io/apis/credible-data/data-api-reference-api/) — Credible Data Data API Reference API as documented publicly: 8 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the…
+- [Credible Data API](https://apis.io/apis/credible-data/full-api/) — Credible Data API generated from documentation (combined spec) with 40 operations. Not the provider's own published contract.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (11)
+
+The data models the API reads and writes.
+
+- [GetEnvironmentsStringPackagesStringModelsResponse](https://apis.io/schemas/credible-data/credible-data-get-environments-string-packages-string-models-response/)
+- [GetEnvironmentsStringPackagesStringPagesResponse](https://apis.io/schemas/credible-data/credible-data-get-environments-string-packages-string-pages-response/)
+- [GetOrganizationsStringEnvironmentsStringPackagesStringRunsRe](https://apis.io/schemas/credible-data/credible-data-get-organizations-string-environments-string-packages-string-runs-re/)
+- [GetOrganizationsStringEnvironmentsStringPackagesStringRunsSt](https://apis.io/schemas/credible-data/credible-data-get-organizations-string-environments-string-packages-string-runs-st/)
+- [GetOrganizationsStringEnvironmentsStringPackagesStringVersio](https://apis.io/schemas/credible-data/credible-data-get-organizations-string-environments-string-packages-string-versio/)
+- [GetOrganizationsStringEnvironmentsStringPackagesStringVersio2](https://apis.io/schemas/credible-data/credible-data-get-organizations-string-environments-string-packages-string-versio2/)
+- [GetUsersStringResponse](https://apis.io/schemas/credible-data/credible-data-get-users-string-response/)
+- [PatchOrganizationsStringEnvironmentsStringPackagesStringVers](https://apis.io/schemas/credible-data/credible-data-patch-organizations-string-environments-string-packages-string-vers/)
+- [PostEnvironmentsStringConnectionsStringSqlqueryResponse](https://apis.io/schemas/credible-data/credible-data-post-environments-string-connections-string-sqlquery-response/)
+- [PostEnvironmentsStringPackagesStringModelsStringQueryRespons](https://apis.io/schemas/credible-data/credible-data-post-environments-string-packages-string-models-string-query-respons/)
+- [PostWatchModeStartRequest](https://apis.io/schemas/credible-data/credible-data-post-watch-mode-start-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Credible Data Context](https://apis.io/jsonld/credible-data/credible-data-context/)
+
+#### Overlays (3)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Credible Data Admin Api Reference Overlay](https://apis.io/overlays/credible-data/credible-data-admin-api-reference-overlay/)
+- [Credible Data Data Api Reference Overlay](https://apis.io/overlays/credible-data/credible-data-data-api-reference-overlay/)
+- [Credible Data Openapi Overlay](https://apis.io/overlays/credible-data/credible-data-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Credible Data API Rules](https://apis.io/rules/credible-data/credible-data-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Credible Data Domain Security](https://apis.io/security/credible-data/credible-data-domain-security/)
+- [Credible Data Trust Center](https://apis.io/security/credible-data/credible-data-trust-center/)
+- [Credible Data Vulnerability Disclosure](https://apis.io/security/credible-data/credible-data-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Credible Data Plans Pricing](https://apis.io/plans/credible-data/credible-data-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.credibledata.com/)
+- [Documentation](https://www.credibledata.com/docs/introduction)
+- [Getting started](https://www.credibledata.com/docs/platform-admin/cicd)
+- [API reference](https://www.credibledata.com/docs/reference/auth/entra-id)
+- [Pricing](https://www.credibledata.com/pricing)
+- [Sign up](https://signup.app.credibledata.com/)
+- [Support](https://www.credibledata.com/docs/community/support)
+- [Blog](https://www.credibledata.com/blog)
+- [Security](https://www.credibledata.com/security)
+- [Compliance](https://www.credibledata.com/security)
+- [Privacy policy](https://www.credibledata.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 53.5** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 51.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 68.9 |
+
+**Agent readiness 28.7** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 23.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/credible-data/](https://apis.io/providers/credible-data/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Credible Data: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/credible-data/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
